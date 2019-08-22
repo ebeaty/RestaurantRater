@@ -37,5 +37,7 @@ namespace RestaurantRater.Controllers
 
             return View(restaurant);
         }
+
+        // GET: Restaurant/Delete/[id]
     }
 }
